@@ -1,4 +1,5 @@
 {
   "jwtPrivateKey": "jwtPrivateKey",
-  "STRIPE_KEY": "STRIPE_KEY"
+  "STRIPE_KEY": "STRIPE_KEY",
+  "db": "db"
 }
