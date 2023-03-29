@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": "1234",
+  "port": "8000",
+  "db": "mongodb://localhost/shop_tests"
+}

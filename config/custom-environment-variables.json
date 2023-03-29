@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "jwtPrivateKey",
+  "STRIPE_KEY": "STRIPE_KEY"
+}

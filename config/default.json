@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "",
+  "db": "mongodb://127.0.0.1:27017/shop-api",
+  "port": "8900",
+  "STRIPE_KEY": "sk_test_51MlWVqCjp3dmd8lLBDVcgYB7hkWE0gQIvJ7RA3nrvTSlrFGQkGZr5fwT5aRJxLV0NfSQYXhjGyzZZw78jTWnQ86p00BjaEa7NU"
+}
