@@ -1,5 +1,5 @@
 {
-  "jwtPrivateKey": "jwtPrivateKey",
+  "jwtPrivateKey": "SECURE_KEY",
   "STRIPE_KEY": "STRIPE_KEY",
-  "db": "db"
+  "db": "MONGODB"
 }

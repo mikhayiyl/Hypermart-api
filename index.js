@@ -18,6 +18,7 @@ const products = require("./routes/products");
 const carts = require("./routes/carts");
 const payments = require("./routes/stripe");
 const orders = require("./routes/orders");
+const wishlist = require("./routes/wishlist");
 
 const app = express();
 
@@ -55,6 +56,7 @@ app.use("/api/auth", auth);
 app.use("/api/payments", payments);
 app.use("/api/genres", genres);
 app.use("/api/categories", categories);
+app.use("/api/wishlist", wishlist);
 
 
 
